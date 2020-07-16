@@ -4,6 +4,8 @@ Learn the basics of electronics in making this high efficiency 5V power supply. 
 
 ![hero](images/hero.jpg)
 
+<github> View the way this project is meant to be displayed, at https://www.jaycar.com.au/high-efficiency-psu </github>
+
 ## Table of Contents
 
 - [High Efficiency Power Supply](#High-Efficiency-Power-Supply)
